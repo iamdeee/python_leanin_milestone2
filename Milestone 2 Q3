@@ -1,0 +1,15 @@
+//Design 3
+
+import turtle
+
+t = turtle. Turtle()
+
+c = t.clone()
+t.color("orange")
+c.color("purple")
+t.circle(20)
+c.circle(30)
+for i in range(40, 100, 10):
+c.circle(i)
+
+turtle.mainloop()
