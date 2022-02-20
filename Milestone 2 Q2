@@ -1,7 +1,6 @@
 //Design 2
 
 import turtle
-# Creating turtle turtle
 t = turtle. Turtle()
 
 t.shapesize(3,3,3)
